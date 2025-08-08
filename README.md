@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaustubh1277
 - 👀 I’m interested in HTML,CSS,JS
-- 🌱 I’m currently learning C++, DBMS
+- 🌱 I’m currently learning Operating System, Cloud Computing
 - 💞️ I’m looking to collaborate on Project of C++
 <!-- 📫 How to reach me ...
 - 😄 Pronouns: ...
